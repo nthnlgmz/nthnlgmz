@@ -21,3 +21,6 @@ I'm <i><b>Nathaniel Gomez</i></b>, a passionate mechatronics engineering student
 ## Skills
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15aruJgPmWw1GC-OVVZEX-8Qf-LeXH1bHXfqistB8Tw&s" alt="C/C++ Icon" width="70" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="C/C++ Icon" width="50" height="50"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo-500x313.png" alt="Python Icon" width="100" height="50">
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nthnlgmz&show_icons=true&locale=en"/></p><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nthnlgmz&show_icons=true&locale=en&layout=compact"/></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nthnlgmz" alt="nthnlgmz" /></a> </p>
+
