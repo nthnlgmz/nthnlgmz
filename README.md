@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nathaniel Gomez 👋</h1>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/z5yrWHMWfF8AAAAC/hacker-hack.gif">
+<img align="right" alt="Coding" width="320" src="https://media.tenor.com/z5yrWHMWfF8AAAAC/hacker-hack.gif">
 
 I'm <i><b>Nathaniel Gomez</i></b>, a passionate mechatronics engineering student with a keen interest in combining mechanical, electrical, and software engineering to create innovative solutions. I'm excited about learning and exploring new technologies to tackle real-world challenges.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nthnlgmz&label=Profile%20views&color=0e75b6&style=flat"/></p>
