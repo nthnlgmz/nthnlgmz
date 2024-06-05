@@ -7,7 +7,7 @@ I'm <i><b>Nathaniel Gomez</i></b>, a passionate mechatronics engineering student
 <!-- About Me -->
 
 ## About Me  
-- 🎓 Studying Mechatronics Engineering at [Batangas State University](https://batstate-u.edu.ph/)
+- 🎓 Studied Mechatronics Engineering at [Batangas State University](https://batstate-u.edu.ph/)
 - 💡 Exploring robotics, automation, and IoT projects
 - 🌐 Enthusiastic about programming
 - 🌱 Always eager to learn and grow as an engineer
