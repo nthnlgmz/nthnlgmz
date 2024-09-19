@@ -15,7 +15,7 @@ I'm <i><b>Nathaniel Gomez</i></b>, a passionate mechatronics engineering student
 <!-- Contact Information -->
 ## Contact Me
 - 📧 Email: [nthnlgmz08@gmail.com](mailto:nthnlgmz08@gmail.com)
-- 💼 LinkedIn: [Nathaniel Gomez](https://www.linkedin.com/in/nathaniel-gomez-423a3627a/)
+- 💼 LinkedIn: [Nathaniel Gomez](https://www.linkedin.com/in/nthnlgmz/)
 
 <!-- Skills -->
 ## Skills
